@@ -1,2 +1,2 @@
-![air-one-x](github.jpg)
+![air-one-x](github.png)
 
